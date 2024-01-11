@@ -10,7 +10,6 @@ Welcome to my digital world, where I hope you feel happy, inspired, and just a l
 - 👀 I am very interested in artificial intelligence and image art.
 - 🌱 I am learning how to better apply artificial intelligence to solve any problem in my life and work.
 - 💞️ I hope to find efficient tools that can assist in art design, exhibition planning, etc.
-- 📫 Liuyue93@Gmail.com
 <!---
 VION2/VION2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
